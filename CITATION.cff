@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Unified Visual-to-Code Generation via Symbolic Rewards and Reference-Guided Code Optimization"
+authors:
+  - family-names: Zheng
+    given-names: Yaozhi
+  - family-names: Jiang
+    given-names: Yilei
+  - family-names: Zhang
+    given-names: Manyuan
+  - family-names: Wan
+    given-names: Yuxuan
+  - family-names: Feng
+    given-names: Kaituo
+  - family-names: Peng
+    given-names: Tianshuo
+  - family-names: Zhang
+    given-names: Bo
+  - family-names: Lyu
+    given-names: Michael R.
+  - family-names: Yue
+    given-names: Xiangyu
+year: 2026
+type: software

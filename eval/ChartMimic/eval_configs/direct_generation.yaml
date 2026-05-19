@@ -1,0 +1,10 @@
+agent:
+  name: DirectAgent
+  prompt_path: ${PROJECT_PATH}/chart2code/prompts/DirectAgent/gpt-4-vision-preview.json
+
+run:
+  chart2code:
+    name: chart2code
+    dataset_dir: ${PROJECT_PATH}/dataset/direct_1800
+    result_dir: ${PROJECT_PATH}/results/direct
+    num_processes: 1

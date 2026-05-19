@@ -1,0 +1,14 @@
+This directory contains evaluation components adapted from ChartMimic.
+
+Original repository: https://github.com/ChartMimic/ChartMimic
+Original license: Apache License 2.0
+
+The original ChartMimic project is licensed under the Apache License, Version 2.0.
+We include only the evaluator modules required by our unified evaluation pipeline,
+with minor modifications for integration.
+
+For the full license text, see the root LICENSE file of this repository or visit:
+http://www.apache.org/licenses/LICENSE-2.0
+
+Original Copyright Notice:
+Copyright 2024 ChartMimic Authors. All rights reserved.
