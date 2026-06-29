@@ -4,7 +4,7 @@ This repository hosts public resources for **UniCoder: Unified Visual-to-Code Ge
 
 ## Authors
 
-Yaozhi Zheng\*, Yilei Jiang\*, Manyuan Zhang, Yuxuan Wan, Kaituo Feng, Tianshuo Peng, Bo Zhang, Michael R. Lyu, Xiangyu Yue†
+Yaozhi Zheng\*, Yilei Jiang\*, Manyuan Zhang, Yuxuan Wan, Kaituo Feng, Tianshuo Peng, Bo Zhang, Xiangyu Yue†
 
 (\* Equal contribution, † Corresponding author)
 
@@ -118,7 +118,7 @@ python eval/simple_eval/run_pipeline.py \
 ```bibtex
 @article{zheng2026unicoder,
   title={Unified Visual-to-Code Generation via Symbolic Rewards and Reference-Guided Code Optimization},
-  author={Zheng, Yaozhi and Jiang, Yilei and Zhang, Manyuan and Wan, Yuxuan and Feng, Kaituo and Peng, Tianshuo and Zhang, Bo and Lyu, Michael R. and Yue, Xiangyu},
+  author={Zheng, Yaozhi and Jiang, Yilei and Zhang, Manyuan and Wan, Yuxuan and Feng, Kaituo and Peng, Tianshuo and Zhang, Bo and Yue, Xiangyu},
   journal={arXiv preprint},
   year={2026},
   note={Yaozhi Zheng and Yilei Jiang contributed equally; Xiangyu Yue is the corresponding author.}
